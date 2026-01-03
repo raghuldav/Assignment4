@@ -1,6 +1,4 @@
- # Assignment4
-
-XGBoost vs Neural Networks
+# XGBoost vs Neural Networks
 
 **Author:** Raghulchellapandiyan Senthil Kumaran
 
