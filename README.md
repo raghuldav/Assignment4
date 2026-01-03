@@ -1,7 +1,7 @@
  # Assignment4
 
 XGBoost vs Neural Networks
-EAS 510 – Assignment 4
+
 **Author:** Raghulchellapandiyan Senthil Kumaran
 
 ---
